@@ -1,6 +1,6 @@
 # Can't Read This
 
-__Challenge Creator: @Pigoboom1
+__Challenge Creator: @Pigoboom1__
 
 ## Solution
 Get the flag by copying the header from the none encrypted image and then using it to replace the header of the encrypted image. 
