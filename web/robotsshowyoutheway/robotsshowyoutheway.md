@@ -1,5 +1,7 @@
 # robots_show_you_the_way
 
+__Challenge Author: @CuPcakeN1njA__
+
 ## Solution
 Upon visitng the application the competitor should navigate here to /robots.txt.
 
