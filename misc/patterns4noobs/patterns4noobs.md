@@ -12,18 +12,27 @@ Using the same logic throughout the competitor should be able to deduct differen
 
 A little bit of playing around and experimenting may be needed before the competitor find the right place for the characters.
 
-Bellow is a solution.
+Bellow is a solution. The flag will match every regex query.
  
-LTDH19{R3g3X_15_4_N000B5}
+
 ....1........1...........
+
 ..................N......
-[A-Z]_1
-[A-Z]_[1-9]{2}_
+
+\[A-Z]\_1
+
+\[A-Z]\_\[1-9]{2}\_
+
 3.3
+
 .{19}000
+
 5.$
+
 B
-{R[1-9]g[1-9]
-[3-5]_
+
+{R\[1-9]g\[1-9]
+
+\[3-5]\_
 
 LTDH19{R3g3X_15_4_N000B5}
