@@ -1,5 +1,7 @@
 # Fix Me
 
+__Challenge Creator: @CuPcakeN1njA__
+
 ## Solution
 In this challenge you notice that the python file md5 hashes the contents of some output from an AES encryption.
 The AES encryption encrypts each letter of the aplhabet (16 times) against a flag of 8 characters (2 times). This happens for each character in the
@@ -14,6 +16,6 @@ second index and be checking against 8, as that way of the key doesnt have legnt
 finally the final trick is to notice in the alphabet there are a few characters switched postions. For example the i and j, and the p and q.
 Once you have made these changes you will be able to get the flag.
 
-
 LTDH19{N0t_aLL_thAt_tR1ckY}
 
+I have attached both the solved file and the original as well as the zip.
