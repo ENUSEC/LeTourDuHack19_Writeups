@@ -10,6 +10,6 @@ function generateRandomString($length = 1000) {
     return $randomString;
 }
 
-echo(generateRandomString())
+echo(generateRandomString());
 ?>
 
