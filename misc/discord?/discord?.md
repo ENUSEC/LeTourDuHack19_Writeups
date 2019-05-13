@@ -1,4 +1,7 @@
 # Discord?
+
+__Challenge Author: @CuPcakeN1njA__
+
 ## Solution
 
 This challenge wanted the user to visit the discord. Which there was a link for on the scoreboard.
