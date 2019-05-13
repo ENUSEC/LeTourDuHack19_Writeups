@@ -1,5 +1,7 @@
 # Freeeeeqy
 
+__Challenge Author: @CuPcakeN1njA__
+
 ## Solution
 This challenge takes the crypto.txt file.
 
