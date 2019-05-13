@@ -1,5 +1,7 @@
 # Image Manipulation 1
 
+__Challenge Author: @CuPcakeN1njA__
+
 ## Solution
 This challenge requires the user to manipulate the image they are given.
 
